@@ -30,6 +30,7 @@
         "drupal/core-recommended": "^9.3",
         "drupal/csp": "^1.15",
         "drupal/ds": "^3.13",
+        "drupal/entity_share": "^3.0@RC",
         "drupal/environment_indicator": "^4.0",
         "drupal/features": "^3.12",
         "drupal/gutenberg": "^2.2",
@@ -59,7 +60,7 @@
     "conflict": {
         "drupal/drupal": "*"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "sort-packages": true

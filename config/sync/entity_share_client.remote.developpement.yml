@@ -1,0 +1,13 @@
+uuid: 983edd83-456d-4819-8eff-65e7055ea41b
+langcode: fr
+status: true
+dependencies: {  }
+id: developpement
+label: Développement
+url: 'http://deploy:8888'
+auth:
+  pid: basic_auth
+  uuid: 4a810fc1-954c-41de-bb84-0530d5f17e54
+  data:
+    credential_provider: entity_share
+    storage_key: 4a810fc1-954c-41de-bb84-0530d5f17e54

@@ -1,0 +1,19 @@
+uuid: c5bc0e30-5bc8-449c-b3df-4964521a36b0
+langcode: fr
+status: true
+dependencies: {  }
+id: article
+label: Article
+channel_entity_type: node
+channel_bundle: article
+channel_langcode: und
+channel_filters: null
+channel_groups: null
+channel_sorts: {  }
+channel_searches: null
+channel_maxsize: 50
+access_by_permission: true
+authorized_roles:
+  administrator: administrator
+authorized_users:
+  d6cc9faf-e2e5-4483-b84f-fcb79aa41611: d6cc9faf-e2e5-4483-b84f-fcb79aa41611
