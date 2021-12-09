@@ -1,0 +1,3 @@
+access config_example:
+  title: 'Access Config Example admin page'
+  description: 'Allow user to access Config Example admin page.'
