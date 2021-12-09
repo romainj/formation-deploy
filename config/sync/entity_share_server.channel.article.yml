@@ -7,7 +7,10 @@ label: Article
 channel_entity_type: node
 channel_bundle: article
 channel_langcode: und
-channel_filters: null
+channel_filters:
+  field_image:
+    path: field_image
+    operator: 'IS NOT NULL'
 channel_groups: null
 channel_sorts: {  }
 channel_searches: null
